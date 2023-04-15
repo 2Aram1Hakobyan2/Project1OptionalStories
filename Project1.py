@@ -138,3 +138,4 @@ elif c == 3:
     print("\n----\nThe End\n----\n")
 else:
     print("There are Only 3 stories. \nTry Again!")
+    #The program is written on windows powered visual studio code
