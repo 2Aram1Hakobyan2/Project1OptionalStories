@@ -138,5 +138,3 @@ elif c == 3:
     print("\n----\nThe End\n----\n")
 else:
     print("There are Only 3 stories. \nTry Again!")
-    
-   #pull request is open
